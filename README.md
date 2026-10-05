@@ -75,7 +75,7 @@ Deslize o dedo para passear: **Banheiro ← Sala → Cozinha → Sala de jogos**
 
 <p align="center"><img src="docs/img/cuidados.png" alt="Bandeja de comidas aberta, morango chegando na boca e banho de espuma"></p>
 
-### 🎮 Quatro jogos
+### 🎮 Tres jogos
 
 <p align="center"><img src="docs/img/jogos.png" alt="Lista de jogos, Pegue a comida, Cadê o pet? e Tetris"></p>
 
