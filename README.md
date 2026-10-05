@@ -14,6 +14,14 @@ e fica mais esperto a cada atualização.
 ![Voz](https://img.shields.io/badge/voz-100%25%20no%20aparelho-6CE08A)
 ![Atualizações](https://img.shields.io/badge/atualizações-pela%20internet-181717?logo=github)
 
+<table>
+<tr>
+<td align="center" width="33%"><h3>🐾 Vivo</h3>Sente fome, sono e saudade, muda de humor e pede a sua atenção.</td>
+<td align="center" width="33%"><h3>🧠 Esperto</h3>Aprende a sua voz, lembra de você e entende comandos, sem internet.</td>
+<td align="center" width="33%"><h3>📶 Conectado</h3>Relógio sempre certo e atualizações que trazem novidades.</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -33,6 +41,18 @@ receber versões novas.
 
 ---
 
+## ☀️ Um dia com o seu pet
+
+| Quando | O que acontece |
+|---|---|
+| **07:30** | O alarme toca com um *miau*, ele pula na tela e você escolhe entre soneca e parar. |
+| **08:00** | "Hora do remédio!" Ele avisa: *"Não esquece o remédio, tá?"*, e você toca em **Feito!**. |
+| **Almoço** | Ele está com fome: abra a geladeira e arraste o peixe até a boca dele. |
+| **18:30** | "Hora da academia!" Ele dança: *"Vai lá ficar fortão!"*. Diga *"cardio"* e ele coloca a faixa para treinar junto. |
+| **À noite** | Uma partida de Tetris, um banho de espuma, um carinho, e ele pega no sono. |
+
+---
+
 ## 🎁 O que vem na versão 1.0
 
 ### 🐾 Um pet que sente de verdade
@@ -44,19 +64,26 @@ receber versões novas.
 ### 🏠 Uma casa com quatro cômodos
 Deslize o dedo para passear: **Banheiro ← Sala → Cozinha → Sala de jogos**.
 
+<p align="center"><img src="docs/img/comodos.png" alt="Sala, cozinha, banheiro e sala de jogos"></p>
+
 | Cômodo | O que tem |
 |---|---|
-| 🛋️ **Sala** | Onde ele vive. Deslize para baixo e aparece um **relógio analógico e digital** com os medidores das necessidades. |
+| 🛋️ **Sala** | Onde ele vive e conversa com você num balãozinho. Deslize para baixo e aparece o **relógio** com os medidores das necessidades. |
 | 🍽️ **Cozinha** | Uma geladeira com **peixe, leite, frango, ração e morango**. Arraste a comida até a boca dele e veja ele mastigar. |
 | 🛁 **Banheiro** | **Sabonete** faz espuma (e cócegas!), **chuveiro** tira tudo. No fim ele comemora: "limpinho!". |
 | 🎮 **Sala de jogos** | Uma **bola com física de verdade**: arremesse e ela quica nas bordas redondas da tela, enquanto ele acompanha com os olhos. |
 
+<p align="center"><img src="docs/img/cuidados.png" alt="Bandeja de comidas aberta, morango chegando na boca e banho de espuma"></p>
+
 ### 🎮 Quatro jogos
+
+<p align="center"><img src="docs/img/jogos.png" alt="Lista de jogos, Pegue a comida, Cadê o pet? e Tetris"></p>
+
 | Jogo | Como jogar |
 |---|---|
 | ⚽ **Bola** | Arraste e solte. Ela voa, quica e rola, e brincar enche a barra de diversão. |
 | 🍎 **Pegue a comida** | **Incline o aparelho** para guiar o pet e pegar o que cai do céu. Cuidado com as bombas e as pedras! |
-| 🔍 **Cadê o pet?** | Ele se esconde num quarto bagunçado maior que a tela. Ache o máximo de vezes em 60 s, e os reloginhos escondidos dão +10 s. |
+| 🔍 **Cadê o pet?** | Ele se esconde num quarto bagunçado maior que a tela: arraste para procurar. Ache o máximo de vezes em 60 s, e os reloginhos escondidos dão +10 s. |
 | 🧱 **Tetris** | O clássico, com o pet torcendo do lado: comemora cada linha e fica preocupado quando a pilha sobe. |
 
 Todos os **recordes ficam salvos**. E atenção: com a barriga vazia, ele não brinca. Primeiro a comida!
@@ -73,18 +100,29 @@ Todos os **recordes ficam salvos**. E atenção: com a barriga vazia, ele não b
 - **Faz perguntas** e **lembra das respostas** para usar nas conversas.
 - **Percebe a sua rotina:** sabe a que horas você costuma aparecer e nota quando você some.
 - **Aprende os truques favoritos:** pulo, dança, língua de fora, olhar em volta e cantar. Faça carinho logo depois de um truque e ele entende que você gostou.
+- **Comenta o seu dia:** comemora quando você bate a meta de passos e avisa dos lembretes que estão chegando.
 
-### ⏰ Despertador e lembretes
-- **Até 5 alarmes**, com dias da semana, **soneca** e quatro toques: *Bipe, Sino, Melodia* e *Miau*.
-- **Até 10 lembretes** de atividades. Na hora, ele avisa, faz um truque e conta quantas vezes você cumpriu.
+### ⏰ Relógio, despertador e lembretes
+
+<p align="center"><img src="docs/img/agenda.png" alt="Relógio com medidores, lista de alarmes, lista de lembretes e alarme tocando"></p>
+
+- **Relógio analógico e digital:** deslize para baixo na sala. Em volta dele ficam os medidores de **sono, fome, carinho, limpeza e brincadeira**, e o pet vai para o lado olhar a hora com você.
+- **Até 5 alarmes**, com dias da semana e quatro toques: *Bipe, Sino, Melodia* e *Miau*. Na hora, a tela acende, o pet pula e aparecem **Soneca** (+5 min) e **Parar**.
+- **Até 10 lembretes** de atividades. Na hora, ele avisa do seu jeito (muitas vezes com um truque) e oferece **Adiar** (+10 min) ou **Feito!**, contando quantas vezes você cumpriu.
 - **Tudo por voz:** chame o nome dele e diga *"alarme… sete, três, zero"* para despertar às 07:30, ou *"estudar… sete"* para um lembrete às 07:00.
+- **Sininho e lista** em cima do relógio levam direto aos alarmes e aos lembretes.
 
 ### 🏃 Modo cardio
+
+<p align="center"><img src="docs/img/cardio.png" width="380" alt="Painel do modo cardio com passos, distância, calorias, minutos ativos, pontos cardio e gráfico da semana"></p>
+
 Deslize para cima (ou peça por voz) e ele **coloca a faixa de suor** para treinar com você.
-- **Conta passos** pelo sensor de movimento, mesmo com você longe da tela.
-- **Mostra o treino:** ritmo, distância, calorias, minutos ativos e **pontos cardio**, seguindo a recomendação da OMS.
-- **Histórico:** gráfico dos **últimos 7 dias**, com metas, peso e altura ajustáveis.
-- **Resumo:** quando você termina, ele fala como foi o treino.
+- **Passos até a meta** no anel de fora e **pontos cardio** no anel de dentro, seguindo a recomendação da OMS.
+- **Distância, calorias ativas e minutos ativos** do dia, ao lado.
+- **Cronômetro do treino** e o seu **ritmo de agora**: parado, caminhando ou correndo.
+- **Gráfico da semana:** os passos dos últimos 7 dias.
+- **Metas, peso e altura ajustáveis** no botão de lápis.
+- **Conta passos o dia todo**, mesmo com você longe da tela, e quando o treino termina ele fala como foi.
 
 ### 📶 Conectado (opcional)
 - **Wi-Fi com teclado na própria tela.** Ele mostra as redes por perto e, ao tocar numa, aparece um teclado feito para a tela redonda. A letra embaixo do dedo aparece ampliada numa lupa, para não errar.
@@ -104,6 +142,7 @@ Deslize para cima (ou peça por voz) e ele **coloca a faixa de suor** para trein
 
 - 🌀 **Gire o aparelho** e veja os olhinhos virarem espiral.
 - 🙅 **De barriga cheia**, ele recusa a comida balançando a cabeça.
+- 😛 **Comida chegando:** ele abre a boca e põe a língua para fora.
 - 🪰 **Sujo demais?** Aparecem moscas voando em volta dele.
 - 👀 **Ele olha para as coisas:** acompanha a bola com os olhos, olha para o relógio e para a geladeira, e depois volta a olhar para você.
 - 🏡 **Volta para a sala sozinho** se você deixar ele parado em outro cômodo.
@@ -190,6 +229,13 @@ ensinar as palavras do jeito que fala, até em outro idioma.
 </details>
 
 <details>
+<summary><b>O alarme toca mesmo se eu não estiver olhando?</b></summary>
+
+Sim. Na hora marcada, a tela acende, o pet pula e o toque escolhido soa até você tocar em
+*Soneca* ou *Parar*. Chamar o nome dele também para o alarme.
+</details>
+
+<details>
 <summary><b>Vou perder alguma coisa ao atualizar?</b></summary>
 
 Não. As atualizações trocam só o programa do pet. Tudo o que você ensinou e configurou fica guardado.
@@ -215,7 +261,7 @@ contando a hora certa.
 
 | Versão | Novidades |
 |---|---|
-| **1.0.0** | Primeira versão: pet com 5 necessidades e humores, 4 cômodos, 4 jogos, voz que aprende, cérebro com memória, alarmes e lembretes por voz, modo cardio, Wi-Fi com teclado na tela, hora automática e atualizações pela internet. |
+| **1.0.0** | Primeira versão: pet com 5 necessidades e humores, 4 cômodos, 4 jogos, voz que aprende, cérebro com memória, relógio, alarmes e lembretes por voz, modo cardio, Wi-Fi com teclado na tela, hora automática e atualizações pela internet. |
 
 As próximas versões aparecem em **[Releases](../../releases)**, que é de onde o pet baixa as novidades.
 
