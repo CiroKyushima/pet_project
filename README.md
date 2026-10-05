@@ -196,8 +196,6 @@ As versões novas chegam pela internet, sem cabo e sem computador.
 | | |
 |---|---|
 | **Tela** | AMOLED redonda de 1,75", 466 × 466 pixels, sensível ao toque |
-| **Processador** | ESP32-S3 dual-core de até 240 MHz |
-| **Memória** | 16 MB de armazenamento + 8 MB de RAM extra (PSRAM) |
 | **Sensores** | Movimento de 6 eixos (inclinação, giro e passos) |
 | **Áudio** | Alto-falante e microfones |
 | **Conectividade** | Wi-Fi 2,4 GHz (opcional) |
